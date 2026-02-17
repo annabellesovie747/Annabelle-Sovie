@@ -1,0 +1,7 @@
+{
+  "name": "AI Portfolio Architect & Prompt Generator",
+  "description": "A sophisticated tool that transforms resumes into high-end, futuristic portfolios using Gemini AI, while also generating specialized prompts for other AI website builders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
